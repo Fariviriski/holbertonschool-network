@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-sudo netstat -tnulp
+sudo netstat -l --program
